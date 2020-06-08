@@ -1,10 +1,10 @@
 Manifest-Version: 1.0
-Implementation-Title: sakpole
-Implementation-Version: 0.1.0
-Built-By: Admin
-Implementation-Vendor-Id: org.springframework
-Build-Jdk: 1.8.0_202
+Implementation-Title: SSpringBoot-Kafka-JSON-Fundnesia
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Luis
+Implementation-Vendor-Id: com.Fundnesia
+Build-Jdk: 1.8.0_172
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
- ot-starter-parent/sakpole
+ ot-starter-parent/SpringBoot-Kafka-JSON-Fundnesia
 Created-By: Maven Integration for Eclipse
 
